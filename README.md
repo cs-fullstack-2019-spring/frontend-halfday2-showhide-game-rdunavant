@@ -1,3 +1,6 @@
+### POINTS: 0
+### KEY: No *new* features implemented
+
 # JavaScript Show/Hide Game
 
 Take this simple show/hide game and make it your own.
